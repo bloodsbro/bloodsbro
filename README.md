@@ -1,16 +1,26 @@
-### Hi there 👋
+##Hey
+Hey-hey, yeah...
+I'm a humble backend developer, writing on (Java)TypeScript, on NodeJS platform.
+I am constantly learning, learning something new
 
-<!--
-**bloodsbro/bloodsbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Knowledge
+#I know almost ideally:
+- TypeScript
+- JavaScript
+- C# / WPF
+#Don't know much, but had some work experience in:
+- Java / JavaFX
+- C++ / OpenCV
+- PHP
+#Hating
+- Python :)
 
-Here are some ideas to get you started:
+##In-dev projects
+- EmpireRP (GTA:V / comercial)
+- Horizon Project (GTA:V / comercial)
+- *secret* (NodeJS site / commercial)
+- StandoffHub (NodeJS site / commercial)
+- Invasion Project (Java / commercial)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Best regards,
+Ivan aka Ximelie aka bloodsbro
