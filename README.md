@@ -26,7 +26,7 @@ I am constantly learning, learning something new</p>
   <li>EmpireRP (GTA:V / NodeJS / comercial)</li>
   <li>Horizon Project (GTA:V / NodeJS / comercial)</li>
   <li>*secret* (site / NodeJS / NodeJS / commercial)</li>
-  <li><a href="https://standoffhub.org" target="_blank">StandoffHub (site / NodeJS / commercial)</a></li>
+  <li><a href="https://ximelie.dev" target="_blank">Ximelie.dev (site / NodeJS / commercial)</a></li>
   <li><a href="https://invasion.su" target="_blank">Invasion Project (Minecraft / Java / commercial)</a></li>
 </ul>
 <p>
